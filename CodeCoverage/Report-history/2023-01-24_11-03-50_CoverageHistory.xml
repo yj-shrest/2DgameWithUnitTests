@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2023-01-24_11-03-50" tag="">
+  <assembly name="EditMode">
+    <class name="tests.TestValues" coveredlines="6" coverablelines="6" totallines="25" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="playmodetest">
+    <class name="test.testfunctions" coveredlines="0" coverablelines="33" totallines="64" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="Scripts">
+    <class name="FollowCamera" coveredlines="5" coverablelines="5" totallines="19" coveredbranches="0" totalbranches="0" />
+    <class name="Player" coveredlines="38" coverablelines="40" totallines="81" coveredbranches="0" totalbranches="0" />
+    <class name="PlayerInput" coveredlines="11" coverablelines="11" totallines="20" coveredbranches="0" totalbranches="0" />
+    <class name="tolvl1" coveredlines="4" coverablelines="9" totallines="25" coveredbranches="0" totalbranches="0" />
+    <class name="tolvl2" coveredlines="8" coverablelines="8" totallines="24" coveredbranches="0" totalbranches="0" />
+  </assembly>
+</coverage>
